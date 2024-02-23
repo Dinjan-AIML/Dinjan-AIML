@@ -8,8 +8,7 @@ We are Dinjan AI ML, an innovative IT company specializing in Artificial Intelli
 - 🌐 Visit our website at [www.dinjaninfotech.com](https://www.dinjaninfotech.com) to learn more about our services and solutions.
 - 📫 You can reach out to us via email at [info@dinjaninfotech.com](mailto:info@dinjaninfotech.com) or connect with us on [LinkedIn](https://www.linkedin.com/company/dinjan-infotech/mycompany/).
 - 😄 Pronouns: We/Us
-- ⚡ Fun fact: In 2016, Google's DeepMind AI defeated Lee Sedol, one of the world's top Go players, in a historic match. This victory marked a significant milestone in AI research, showcasing the potential of     
-                machine learning algorithms to master complex games and challenges previously thought to be exclusive to human intelligence!
+- ⚡ Fun fact: In 2016, Google's DeepMind AI defeated Lee Sedol, one of the world's top Go players, in a historic match. This victory marked a significant milestone in AI research, showcasing the potential of machine learning algorithms to master complex games and challenges previously thought to be exclusive to human intelligence!
 
 Feel free to explore our repositories and get in touch if you're interested in partnering with us or discussing AI and ML initiatives!
 
