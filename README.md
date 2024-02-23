@@ -1,6 +1,6 @@
-# Welcome to Dinjan AI ML! 👋
+# Welcome to Dinjan AI! 👋
 
-We are Dinjan AI ML, an innovative IT company specializing in Artificial Intelligence and Machine Learning solutions.
+We are Dinjan AI, an innovative IT company specializing in Artificial Intelligence and Machine Learning solutions.
 
 - 👀 We're passionate about harnessing the power of AI and ML to create intelligent and efficient systems that solve complex problems and drive innovation.
 - 🌱 We're continuously learning and exploring cutting-edge technologies and methodologies in AI and ML to stay ahead in the rapidly evolving field.
